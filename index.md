@@ -1,4 +1,4 @@
-# Tanmay Singh - Portfolio
+# 🌟Tanmay Singh - Portfolio🌟
 
 Welcome to the portfolio of **Tanmay Singh**, a passionate **Software Developer**. Below you'll find an overview of my work, skills, and experiences. Feel free to reach out if you'd like to collaborate or discuss any opportunities!
 
@@ -7,31 +7,42 @@ Welcome to the portfolio of **Tanmay Singh**, a passionate **Software Developer*
 
 ---
 
-## About Me
+## 👨‍💻About Me
 
 I am a **Software Developer** with expertise in full-stack development. I am passionate about creating innovative solutions and working on impactful projects that make a difference. With a background in Computer Science, I am always eager to learn new technologies and techniques to improve my craft.
 
-- **Location**: New York, USA
-- **Email**: tanmaysingh.dev@example.com
-- **Website**: [www.tanmaysingh.dev](http://www.tanmaysingh.dev)
-- **LinkedIn**: [linkedin.com/in/tanmaysingh](https://linkedin.com/in/tanmaysingh)
-- **GitHub**: [github.com/tanmaysingh](https://github.com/tanmaysingh)
-- **Twitter**: [@TanmayDev](https://twitter.com/TanmayDev)
+- **📍Location**: Jaipur,Rajasthan
+- **✉️Email**: tanmaysingh.dev@example.com
+- **🔗Website**: [www.tanmaysingh.dev](http://www.tanmaysingh.dev)
+- **🐱 LinkedIn**: [linkedin.com/in/tanmaysingh](https://linkedin.com/in/tanmaysingh)
+- **🐱 GitHub**: [github.com/tanmaysingh](https://github.com/tanmaysingh)
+- **🐱 Twitter**: [@TanmayDev](https://twitter.com/TanmayDev)
 
 ---
 
-## Skills
+---
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Flask
-- **Tools**: Git, Docker, Visual Studio Code, Jira
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Design**: Figma, Adobe XD, Sketch
-- **Soft Skills**: Communication, Problem Solving, Teamwork, Leadership
+## 🎓Education
+
+| Year     | Degree          | Institution          | Location    |
+|----------|-----------------|----------------------|-------------|
+| 2023-2027| Bachelor of Science in Computer Science | MNIT JAIPUR | Jaipur, Rajasthan |
+| 2018-2020| High School Diploma | Central Academy High School      | Kota |
 
 ---
 
-## Projects
+## 🛠️Skills
+
+- **Languages**: JavaScript, Python, Java, C++🎯
+- **Frameworks**: React, Node.js, Django, Flask🎯
+- **Tools**: Git, Docker, Visual Studio Code, Jira🎯
+- **Databases**: MySQL, MongoDB, PostgreSQL🎯
+- **Design**: Figma, Adobe XD, Sketch🎯
+- **Soft Skills**: Communication, Problem Solving, Teamwork, Leadership🎯
+
+---
+
+## 💻Projects
 
 ### Project 1: **E-Commerce Platform**
 **Description**: A fully functional e-commerce website built with React and Node.js, designed for users to browse products, make purchases, and track orders.
@@ -69,7 +80,7 @@ I am a **Software Developer** with expertise in full-stack development. I am pas
 
 ---
 
-## Experience
+## 🌍Experience
 
 ### **Software Engineer** - Tech Solutions Inc.
 *January 2023 – Present*  
@@ -87,25 +98,25 @@ I am a **Software Developer** with expertise in full-stack development. I am pas
 
 ---
 
-## Education
+## 🎓Education
 
 ### **Bachelor of Technology in Computer Science** - University of Mumbai
 *Graduation Year: 2021*  
 - Relevant Courses: Data Structures, Algorithms, Web Development, Artificial Intelligence
 - Achievements: Dean's List, 3rd place in the university coding competition
 
-### **Certifications**
+### **🎓Certifications**
 - **Certified Kubernetes Administrator** - Cloud Academy
 - **Full-Stack Web Development** - FreeCodeCamp
 - **AWS Certified Solutions Architect** - Amazon Web Services (AWS)
 
 ---
 
-## Contact
+## 📬Contact
 
 Feel free to reach out to me at [tanmaysingh.dev@example.com](mailto:tanmaysingh.dev@example.com) for inquiries, collaborations, or just to connect!
 
 ---
 
-**Thank you for visiting my portfolio!**
+**🙏Thank you for visiting my portfolio!**
 
