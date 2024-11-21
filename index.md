@@ -2,6 +2,9 @@
 
 Welcome to the portfolio of **Tanmay Singh**, a passionate **Software Developer**. Below you'll find an overview of my work, skills, and experiences. Feel free to reach out if you'd like to collaborate or discuss any opportunities!
 
+
+![here is my photo](https://m.media-amazon.com/images/I/81grVgaYy7L.jpg)
+
 ---
 
 ## About Me
